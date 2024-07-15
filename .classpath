@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet Koca/.p2/pool/plugins/com.ibm.icu_74.1.0.jar" sourcepath="C:/Users/Ahmet Koca/.p2/pool/plugins/com.ibm.icu_74.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet Koca/.p2/pool/plugins/javax.annotation_1.3.5.v20221203-1659.jar" sourcepath="C:/Users/Ahmet Koca/.p2/pool/plugins/javax.annotation_1.3.5.v20221203-1659.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.core.commands_3.11.200.v20231108-1058.jar" sourcepath="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.core.commands_3.11.200.v20231108-1058.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.core.runtime_3.30.0.v20231102-0719.jar" sourcepath="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.core.runtime_3.30.0.v20231102-0719.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.e4.ui.di_1.5.200.v20231030-2045.jar" sourcepath="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.e4.ui.di_1.5.200.v20231030-2045.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.equinox.common_3.18.200.v20231106-1826.jar" sourcepath="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.equinox.common_3.18.200.v20231106-1826.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.equinox.registry_3.11.400.v20231102-2218.jar" sourcepath="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.equinox.registry_3.11.400.v20231102-2218.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.jface_3.32.0.v20231107-0834.jar" sourcepath="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.jface_3.32.0.v20231107-0834.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.jface.text_3.24.200.v20231024-0828.jar" sourcepath="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.jface.text_3.24.200.v20231024-0828.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.osgi_3.18.600.v20231110-1900.jar" sourcepath="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.osgi_3.18.600.v20231110-1900.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.124.200.v20231113-1355.jar" sourcepath="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.swt.win32.win32.x86_64_3.124.200.v20231113-1355.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.text_3.13.100.v20230801-1334.jar" sourcepath="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.text_3.13.100.v20230801-1334.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.ui.forms_3.13.100.v20231102-1012.jar" sourcepath="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.ui.forms_3.13.100.v20231102-1012.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.ui.workbench_3.131.0.v20231201-0512.jar" sourcepath="C:/Users/Ahmet Koca/.p2/pool/plugins/org.eclipse.ui.workbench_3.131.0.v20231201-0512.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet Koca/OneDrive/Masaüstü/mysql-connector-j-8.4.0/mysql-connector-j-8.4.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
