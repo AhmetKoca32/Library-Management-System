@@ -13,7 +13,7 @@ Teknolojiler:
 -JDBC
 
 Kullanım:
-Proje dosyalarınızı indirip bir Java IDE'sinde açtıktan sonra, LibraryApp.java dosyasını çalıştırarak uygulamayı başlatabilirsiniz. Veritabanı bağlantısı için gerekli JDBC bağlantı bilgilerini (URL, USER, PASSWORD) LibraryApp sınıfı içinde güncelleyebilirsiniz.
+Proje dosyalarınızı indirip bir Java IDE'sinde açtıktan sonra, 'LibraryApp.java' dosyasını çalıştırarak uygulamayı başlatabilirsiniz. Veritabanı bağlantısı için gerekli JDBC bağlantı bilgilerini ('URL', 'USER', 'PASSWORD') 'LibraryApp' sınıfı içinde güncelleyebilirsiniz.
 
 Katkıda Bulunma:
 Bu proje açık kaynaklıdır. Her türlü katkı ve geri bildirim için pull request ve issue açmaktan çekinmeyin.
@@ -40,3 +40,7 @@ After downloading the project files and opening them in a Java IDE, run the 'Lib
 
 Contribution:
 This project is open source. Feel free to contribute and provide feedback by opening pull requests and issues.
+
+
+![görsel1](https://github.com/user-attachments/assets/21f3e5d2-271f-469e-8ef6-9710ff09c30a)
+
